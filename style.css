@@ -1,0 +1,21 @@
+ *{ 
+Margin:0;
+Padding:0;
+Box-sizing: border-box;
+Font-family: 'Gilroy';
+}
+
+html,body{
+Width:100%;
+Height:100%;
+}
+
+body{
+    background-color: #000;
+}
+#string{
+    padding: 5vw 5vw;
+    height: 200px;
+    width: 100%;
+    /* background-color: red; */
+}
